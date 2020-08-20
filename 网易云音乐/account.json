@@ -1,0 +1,19 @@
+# 多账号存放文件
+
+[
+    {
+        "account": "2767***@qq.com",
+        "password": "bfa834f7de58cb650ca01edb********",
+        "sckey": "SCU57117T8c9c5ce60bd629112bd2286fcc5f76f65d4bdc5e43592"
+    },
+    {
+        "account": "150********",
+        "password": "bfa834f7de58cb650ca01edb********",
+        "sckey": "SCU97783T70c13167b4daa422f4d419a765eb4ebb5ebc9********"
+    },
+    {
+        "account": "132********",
+        "password": "f391235b15781c95384cd5bb********",
+        "sckey": "SCU97783T70c13167b4daa422f4d419a765eb4ebb5ebc9********"
+    }
+]
